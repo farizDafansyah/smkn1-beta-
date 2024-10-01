@@ -1,0 +1,289 @@
+[2024-08-22 06:32:04 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-22 06:32:09 : INFO] - A total of 37 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:32:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-22 06:32:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-22 06:32:09 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-08-22 06:32:09 : INFO] - Re_Smush_It_Task - Attachment ID : 46, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:32:09 : INFO] - File: Screenshot-2024-08-10-215012.png, Compression quality: 92 
+[2024-08-22 06:32:10 : INFO] - Backing up the original image - 2024/08/Screenshot-2024-08-10-215012-updraft-pre-smush-original.png 
+[2024-08-22 06:32:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:32:12 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Screenshot-2024-08-10-215012.png.The file was compressed from 11.70 KB to 4.51 KB, saving 61.45 percent, using WP-Optimize 
+[2024-08-22 06:32:12 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-08-22 06:32:12 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-08-22 06:32:12 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:32:12 : INFO] - File: Yahya-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:32:15 : INFO] - Backing up the original image - 2024/08/Yahya-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:32:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:32:28 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Yahya-scaled.jpg.The file was compressed from 315.07 KB to 304.86 KB, saving 3.24 percent, using WP-Optimize 
+[2024-08-22 06:32:28 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-08-22 06:32:28 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-08-22 06:32:28 : INFO] - Re_Smush_It_Task - Attachment ID : 139, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:32:28 : INFO] - File: Zaenal-Abidin-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:32:30 : INFO] - Backing up the original image - 2024/08/Zaenal-Abidin-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:32:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:32:40 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Zaenal-Abidin-S-scaled.jpg.The file was compressed from 308.28 KB to 295.84 KB, saving 4.03 percent, using WP-Optimize 
+[2024-08-22 06:32:40 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-08-22 06:32:40 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-08-22 06:32:40 : INFO] - Re_Smush_It_Task - Attachment ID : 140, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:32:40 : INFO] - File: Zaenal-Abidin-S-1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:32:43 : INFO] - Backing up the original image - 2024/08/Zaenal-Abidin-S-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:32:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:32:55 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Zaenal-Abidin-S-1-scaled.jpg.The file was compressed from 406.27 KB to 375.86 KB, saving 7.49 percent, using WP-Optimize 
+[2024-08-22 06:32:55 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-08-22 06:32:55 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-08-22 06:32:55 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:32:55 : INFO] - File: Abdul-Rahman1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:32:59 : INFO] - Backing up the original image - 2024/08/Abdul-Rahman1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:33:06 : INFO] - A total of 33 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:33:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-22 06:33:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-22 06:33:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-22 06:33:06 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-08-22 06:33:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:33:09 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Abdul-Rahman1-scaled.jpg.The file was compressed from 251.43 KB to 240.58 KB, saving 4.32 percent, using WP-Optimize 
+[2024-08-22 06:33:09 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-08-22 06:33:09 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-08-22 06:33:09 : INFO] - Re_Smush_It_Task - Attachment ID : 142, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:33:09 : INFO] - File: Abdul-Rahman-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:33:11 : INFO] - Backing up the original image - 2024/08/Abdul-Rahman-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:33:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:33:22 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Abdul-Rahman-scaled.jpg.The file was compressed from 263.25 KB to 254.09 KB, saving 3.48 percent, using WP-Optimize 
+[2024-08-22 06:33:22 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-08-22 06:33:22 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-08-22 06:33:22 : INFO] - Re_Smush_It_Task - Attachment ID : 143, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:33:22 : INFO] - File: Abdul-Salim-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:33:25 : INFO] - Backing up the original image - 2024/08/Abdul-Salim-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:33:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:33:35 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Abdul-Salim-S1-scaled.jpg.The file was compressed from 307.01 KB to 290.90 KB, saving 5.25 percent, using WP-Optimize 
+[2024-08-22 06:33:35 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-08-22 06:33:35 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-08-22 06:33:35 : INFO] - Re_Smush_It_Task - Attachment ID : 144, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:33:35 : INFO] - File: Abdul-Salim-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:33:38 : INFO] - Backing up the original image - 2024/08/Abdul-Salim-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:33:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:33:48 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Abdul-Salim-S-scaled.jpg.The file was compressed from 248.32 KB to 238.67 KB, saving 3.89 percent, using WP-Optimize 
+[2024-08-22 06:33:48 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-08-22 06:33:48 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-08-22 06:33:48 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:33:48 : INFO] - File: Achmad-Supiardi-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:33:51 : INFO] - Backing up the original image - 2024/08/Achmad-Supiardi-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:34:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:34:02 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Achmad-Supiardi-S1-scaled.jpg.The file was compressed from 394.56 KB to 374.94 KB, saving 4.97 percent, using WP-Optimize 
+[2024-08-22 06:34:02 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-08-22 06:34:02 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-08-22 06:34:02 : INFO] - Re_Smush_It_Task - Attachment ID : 146, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:34:02 : INFO] - File: Achmad-Supiardi-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:34:05 : INFO] - Backing up the original image - 2024/08/Achmad-Supiardi-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:34:06 : INFO] - A total of 28 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:34:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-22 06:34:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-22 06:34:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-22 06:34:06 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2024-08-22 06:34:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:34:16 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Achmad-Supiardi-S-scaled.jpg.The file was compressed from 337.62 KB to 326.41 KB, saving 3.32 percent, using WP-Optimize 
+[2024-08-22 06:34:16 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-08-22 06:34:16 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-08-22 06:34:16 : INFO] - Re_Smush_It_Task - Attachment ID : 147, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:34:16 : INFO] - File: Adinda-Nurul-Hikmah-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:34:19 : INFO] - Backing up the original image - 2024/08/Adinda-Nurul-Hikmah-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:34:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:34:32 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Adinda-Nurul-Hikmah-S1-scaled.jpg.The file was compressed from 471.00 KB to 452.41 KB, saving 3.95 percent, using WP-Optimize 
+[2024-08-22 06:34:32 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-08-22 06:34:32 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-08-22 06:34:32 : INFO] - Re_Smush_It_Task - Attachment ID : 148, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:34:32 : INFO] - File: Adinda-Nurul-Hikmah-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:34:35 : INFO] - Backing up the original image - 2024/08/Adinda-Nurul-Hikmah-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:34:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:34:47 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Adinda-Nurul-Hikmah-S-scaled.jpg.The file was compressed from 377.71 KB to 368.36 KB, saving 2.47 percent, using WP-Optimize 
+[2024-08-22 06:34:47 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-08-22 06:34:47 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-08-22 06:34:47 : INFO] - Re_Smush_It_Task - Attachment ID : 149, Started on : August 22, 2024 06:32:06 
+[2024-08-22 06:34:47 : INFO] - File: Agus-Wibowo-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:34:51 : INFO] - Backing up the original image - 2024/08/Agus-Wibowo-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:35:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:35:01 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Agus-Wibowo-S1-scaled.jpg.The file was compressed from 263.05 KB to 249.31 KB, saving 5.22 percent, using WP-Optimize 
+[2024-08-22 06:35:01 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-08-22 06:35:01 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-08-22 06:35:01 : INFO] - Re_Smush_It_Task - Attachment ID : 150, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:35:01 : INFO] - File: Agus-Wibowo-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:35:04 : INFO] - Backing up the original image - 2024/08/Agus-Wibowo-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:35:06 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:35:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-22 06:35:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-22 06:35:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-22 06:35:06 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-08-22 06:35:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:35:13 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Agus-Wibowo-S-scaled.jpg.The file was compressed from 249.66 KB to 237.56 KB, saving 4.85 percent, using WP-Optimize 
+[2024-08-22 06:35:14 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-08-22 06:35:14 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-08-22 06:35:14 : INFO] - Re_Smush_It_Task - Attachment ID : 151, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:35:14 : INFO] - File: Andres-Prasetio-A-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:35:16 : INFO] - Backing up the original image - 2024/08/Andres-Prasetio-A-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:35:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:35:28 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Andres-Prasetio-A-scaled.jpg.The file was compressed from 259.07 KB to 241.23 KB, saving 6.88 percent, using WP-Optimize 
+[2024-08-22 06:35:28 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-08-22 06:35:28 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-08-22 06:35:28 : INFO] - Re_Smush_It_Task - Attachment ID : 152, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:35:28 : INFO] - File: Andries-Prasetyo-A-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:35:30 : INFO] - Backing up the original image - 2024/08/Andries-Prasetyo-A-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:35:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:35:42 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Andries-Prasetyo-A-scaled.jpg.The file was compressed from 240.62 KB to 227.92 KB, saving 5.28 percent, using WP-Optimize 
+[2024-08-22 06:35:42 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-08-22 06:35:42 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-08-22 06:35:42 : INFO] - Re_Smush_It_Task - Attachment ID : 153, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:35:42 : INFO] - File: Anista-Bintari-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:35:45 : INFO] - Backing up the original image - 2024/08/Anista-Bintari-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:35:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:35:57 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Anista-Bintari-S1-scaled.jpg.The file was compressed from 429.95 KB to 409.76 KB, saving 4.7 percent, using WP-Optimize 
+[2024-08-22 06:35:57 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-08-22 06:35:57 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-08-22 06:35:57 : INFO] - Re_Smush_It_Task - Attachment ID : 154, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:35:57 : INFO] - File: Anista-Bintari-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:36:00 : INFO] - Backing up the original image - 2024/08/Anista-Bintari-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:36:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:36:12 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Anista-Bintari-S-scaled.jpg.The file was compressed from 302.04 KB to 290.38 KB, saving 3.86 percent, using WP-Optimize 
+[2024-08-22 06:36:12 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-08-22 06:36:12 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-08-22 06:36:12 : INFO] - Re_Smush_It_Task - Attachment ID : 155, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:36:12 : INFO] - File: Anita-Warsitaningsih-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:36:15 : INFO] - Backing up the original image - 2024/08/Anita-Warsitaningsih-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:36:24 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:36:24 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-22 06:36:24 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-22 06:36:24 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-22 06:36:24 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2024-08-22 06:36:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:36:25 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Anita-Warsitaningsih-S1-scaled.jpg.The file was compressed from 329.39 KB to 309.68 KB, saving 5.98 percent, using WP-Optimize 
+[2024-08-22 06:36:25 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-08-22 06:36:25 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-08-22 06:36:25 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:36:25 : INFO] - File: Anita-Warsitaningsih-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:36:30 : INFO] - Backing up the original image - 2024/08/Anita-Warsitaningsih-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:36:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:36:40 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Anita-Warsitaningsih-S-scaled.jpg.The file was compressed from 277.34 KB to 263.14 KB, saving 5.12 percent, using WP-Optimize 
+[2024-08-22 06:36:40 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-08-22 06:36:40 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-08-22 06:36:40 : INFO] - Re_Smush_It_Task - Attachment ID : 157, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:36:40 : INFO] - File: Arif-Hidayatullah-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:36:43 : INFO] - Backing up the original image - 2024/08/Arif-Hidayatullah-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:36:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:36:54 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arif-Hidayatullah-S1-scaled.jpg.The file was compressed from 380.17 KB to 364.77 KB, saving 4.05 percent, using WP-Optimize 
+[2024-08-22 06:36:54 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-08-22 06:36:54 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-08-22 06:36:54 : INFO] - Re_Smush_It_Task - Attachment ID : 158, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:36:54 : INFO] - File: Arif-Hidayatullah-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:36:57 : INFO] - Backing up the original image - 2024/08/Arif-Hidayatullah-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:37:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:37:07 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arif-Hidayatullah-S-scaled.jpg.The file was compressed from 324.33 KB to 314.52 KB, saving 3.03 percent, using WP-Optimize 
+[2024-08-22 06:37:07 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-08-22 06:37:07 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-08-22 06:37:07 : INFO] - Re_Smush_It_Task - Attachment ID : 159, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:37:07 : INFO] - File: Arji-Ma_ruf-Santoso-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:37:10 : INFO] - Backing up the original image - 2024/08/Arji-Ma_ruf-Santoso-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:37:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:37:20 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arji-Ma_ruf-Santoso-S1-scaled.jpg.The file was compressed from 293.20 KB to 282.20 KB, saving 3.75 percent, using WP-Optimize 
+[2024-08-22 06:37:20 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-08-22 06:37:20 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-08-22 06:37:20 : INFO] - Re_Smush_It_Task - Attachment ID : 160, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:37:20 : INFO] - File: Arji-Ma_ruf-Santoso-S2-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:37:23 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2024-08-22 06:37:23 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-08-22 06:37:26 : INFO] - Task with ID 24 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2024-08-22 06:37:26 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-08-22 06:37:26 : INFO] - Re_Smush_It_Task - Attachment ID : 161, Started on : August 22, 2024 06:32:07 
+[2024-08-22 06:37:26 : INFO] - File: Arji-Ma_ruf-Santoso-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:37:26 : INFO] - Backing up the original image - 2024/08/Arji-Ma_ruf-Santoso-S2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:37:29 : INFO] - Backing up the original image - 2024/08/Arji-Ma_ruf-Santoso-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:37:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:37:43 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arji-Ma_ruf-Santoso-S-scaled.jpg.The file was compressed from 334.75 KB to 322.45 KB, saving 3.68 percent, using WP-Optimize 
+[2024-08-22 06:37:43 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2024-08-22 06:37:43 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-08-22 06:37:43 : INFO] - Re_Smush_It_Task - Attachment ID : 162, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:37:43 : INFO] - File: Arman-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:37:46 : INFO] - Backing up the original image - 2024/08/Arman-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:37:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:37:58 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arman-S1-scaled.jpg.The file was compressed from 396.76 KB to 378.15 KB, saving 4.69 percent, using WP-Optimize 
+[2024-08-22 06:37:58 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2024-08-22 06:37:58 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-08-22 06:37:58 : INFO] - Re_Smush_It_Task - Attachment ID : 163, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:37:58 : INFO] - File: Arman-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:38:02 : INFO] - Backing up the original image - 2024/08/Arman-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:38:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:38:14 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arman-S-scaled.jpg.The file was compressed from 325.43 KB to 313.38 KB, saving 3.7 percent, using WP-Optimize 
+[2024-08-22 06:38:14 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-08-22 06:38:14 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-08-22 06:38:14 : INFO] - Re_Smush_It_Task - Attachment ID : 164, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:38:14 : INFO] - File: Asri-Nadhariatu-Wahid-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:38:17 : INFO] - Backing up the original image - 2024/08/Asri-Nadhariatu-Wahid-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:38:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:38:33 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Asri-Nadhariatu-Wahid-S1-scaled.jpg.The file was compressed from 398.03 KB to 385.64 KB, saving 3.11 percent, using WP-Optimize 
+[2024-08-22 06:38:33 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-08-22 06:38:33 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-08-22 06:38:33 : INFO] - Re_Smush_It_Task - Attachment ID : 165, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:38:33 : INFO] - File: Asri-Nadhariatu-Wahid-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:38:36 : INFO] - Backing up the original image - 2024/08/Asri-Nadhariatu-Wahid-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:38:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:38:48 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Asri-Nadhariatu-Wahid-S-scaled.jpg.The file was compressed from 435.89 KB to 419.39 KB, saving 3.78 percent, using WP-Optimize 
+[2024-08-22 06:38:48 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-08-22 06:38:48 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-08-22 06:38:48 : INFO] - Re_Smush_It_Task - Attachment ID : 166, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:38:48 : INFO] - File: Atna-Fresh-Violina-M.M1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:38:51 : INFO] - Backing up the original image - 2024/08/Atna-Fresh-Violina-M.M1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:39:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:39:03 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Atna-Fresh-Violina-M.M1-scaled.jpg.The file was compressed from 306.98 KB to 295.17 KB, saving 3.85 percent, using WP-Optimize 
+[2024-08-22 06:39:03 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2024-08-22 06:39:03 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-08-22 06:39:03 : INFO] - Re_Smush_It_Task - Attachment ID : 167, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:39:03 : INFO] - File: Atna-Fresh-Violina-M.M-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:39:09 : INFO] - Backing up the original image - 2024/08/Atna-Fresh-Violina-M.M-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:39:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:39:20 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Atna-Fresh-Violina-M.M-scaled.jpg.The file was compressed from 296.04 KB to 287.62 KB, saving 2.84 percent, using WP-Optimize 
+[2024-08-22 06:39:20 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2024-08-22 06:39:20 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-08-22 06:39:20 : INFO] - Re_Smush_It_Task - Attachment ID : 168, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:39:20 : INFO] - File: Ayu-Miranti-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:39:24 : INFO] - Backing up the original image - 2024/08/Ayu-Miranti-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:39:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:39:38 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Ayu-Miranti-S1-scaled.jpg.The file was compressed from 385.35 KB to 375.69 KB, saving 2.51 percent, using WP-Optimize 
+[2024-08-22 06:39:38 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-08-22 06:39:38 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2024-08-22 06:39:38 : INFO] - Re_Smush_It_Task - Attachment ID : 169, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:39:38 : INFO] - File: Ayu-Miranti-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:39:42 : INFO] - Backing up the original image - 2024/08/Ayu-Miranti-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:39:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:39:55 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Ayu-Miranti-S-scaled.jpg.The file was compressed from 450.90 KB to 431.54 KB, saving 4.29 percent, using WP-Optimize 
+[2024-08-22 06:39:55 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2024-08-22 06:39:55 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2024-08-22 06:39:55 : INFO] - Re_Smush_It_Task - Attachment ID : 170, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:39:55 : INFO] - File: Barata-Antariksa-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:39:59 : INFO] - Backing up the original image - 2024/08/Barata-Antariksa-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:40:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:40:12 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Barata-Antariksa-S1-scaled.jpg.The file was compressed from 339.64 KB to 328.75 KB, saving 3.21 percent, using WP-Optimize 
+[2024-08-22 06:40:12 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2024-08-22 06:40:12 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2024-08-22 06:40:12 : INFO] - Re_Smush_It_Task - Attachment ID : 171, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:40:12 : INFO] - File: Barata-Antariksa-S-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:40:15 : INFO] - Backing up the original image - 2024/08/Barata-Antariksa-S-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:40:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:40:26 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Barata-Antariksa-S-scaled.jpg.The file was compressed from 383.40 KB to 366.72 KB, saving 4.35 percent, using WP-Optimize 
+[2024-08-22 06:40:26 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2024-08-22 06:40:26 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2024-08-22 06:40:26 : INFO] - Re_Smush_It_Task - Attachment ID : 172, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:40:26 : INFO] - File: BU-SILVIA-JOHN.jpg, Compression quality: 92 
+[2024-08-22 06:40:28 : INFO] - Backing up the original image - 2024/08/BU-SILVIA-JOHN-updraft-pre-smush-original.jpg 
+[2024-08-22 06:40:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:40:32 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/BU-SILVIA-JOHN.jpg.The file was compressed from 44.31 KB to 43.58 KB, saving 1.66 percent, using WP-Optimize 
+[2024-08-22 06:40:32 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2024-08-22 06:40:32 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2024-08-22 06:40:32 : INFO] - Re_Smush_It_Task - Attachment ID : 173, Started on : August 22, 2024 06:32:08 
+[2024-08-22 06:40:32 : INFO] - File: Chicha-Fiqri-Rahman-S1-scaled.jpg, Compression quality: 92 
+[2024-08-22 06:40:35 : INFO] - Backing up the original image - 2024/08/Chicha-Fiqri-Rahman-S1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-22 06:40:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-22 06:40:46 : INFO] - Successfully optimized the image - C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Chicha-Fiqri-Rahman-S1-scaled.jpg.The file was compressed from 208.21 KB to 195.32 KB, saving 6.19 percent, using WP-Optimize 
+[2024-08-22 06:40:46 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2024-08-22 06:40:46 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-22 06:40:46 : INFO] - Successfully processed the queue (smush). 14 tasks were processed out of 14. 
+[2024-08-22 06:40:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-22 06:40:46 : INFO] - Cleaning up tasks of type (smush). A total of 18 tasks will be deleted. 
+[2024-08-22 07:13:30 : INFO] - Could not find file for image: ID=160, file=C:\laragon\www\smkn1kotabekasi/wp-content/uploads/2024/08/Arji-Ma_ruf-Santoso-S2-scaled.jpg 
+[2024-08-22 08:34:18 : INFO] - Pruning the smush log file 

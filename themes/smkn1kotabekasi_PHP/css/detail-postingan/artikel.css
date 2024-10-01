@@ -1,0 +1,116 @@
+.detail-article>.image {
+    position: relative;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem #00000022;
+}
+
+.detail-article>.image::before {
+    content: "";
+    width: 100%;
+    height: 0%;
+    box-shadow: 0 0 10rem 10rem #000000ad, 0 0 3rem 2rem rgb(0, 0, 0);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.detail-article>.image .text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 2rem;
+    color: var(--putih);
+    z-index: 1;
+    width: 90%;
+    display: grid;
+}
+
+.detail-article .text .author {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.detail-article .text .author img {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.detail-article .text .title {
+    font-size: 1.8rem;
+}
+
+.detail-article .text .date {
+    font-weight: 100;
+}
+
+.detail-article .contents {
+    font-size: 1.1rem;
+    line-height: 2rem;
+    padding: 0 2rem;
+    display: grid;
+    gap: 2rem;
+}
+
+.detail-article .contents p img {
+    height: auto !important;
+    border-radius: 1rem !important;
+}
+.detail-article .contents p:nth-child(odd) img{
+    float: left !important;
+    margin-right: 1.5rem !important;
+}
+.detail-article .contents p:nth-child(even) img{
+    float: right !important;
+    margin-left: 1.5rem !important;
+}
+
+/* .detail-article .contents p:nth-child(3n+3) img{
+    width: 100% !important;
+} */
+/* .detail-article .contents :where(figure):nth-child(3n){
+    float: left;
+    padding-right: 2rem;
+}
+.detail-article .contents :where(figure):nth-child(3n+1){
+    float: right;
+    padding-left: 2rem;
+}
+.detail-article .contents :where(figure):nth-child(3n+2){
+    width: 100%;
+} */
+/* .detail-article .contents .kiri .image {
+    float: left;
+    padding-right: 2rem;
+}
+
+.detail-article .contents .kanan .image {
+    float: right;
+    padding-left: 2rem;
+}
+
+.detail-article .contents .tengah .image {
+    width: 100%;
+} */
+
+
+@media only screen and (max-width: 928px) {
+    .detail-article>.image {
+        height: 25rem;
+    }
+
+    .detail-article .contents {
+        padding: 0 1rem;
+    }
+
+    .detail-article .text .title {
+        font-size: 1.3rem;
+    }
+
+    .detail-article .contents .image {
+        width: 60%;
+        border-radius: 1rem;
+    }
+}

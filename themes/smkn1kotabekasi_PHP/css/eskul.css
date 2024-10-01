@@ -1,0 +1,31 @@
+
+.eskul-profil .contents {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+  }
+  .eskul-profil .contents .image {
+    width: 100%;
+    height: 20rem;
+    border-radius: 0.5rem;
+    filter: grayscale(1);
+    transition: 1s;
+  }
+  
+  .pelatih-ekstrakulikuler .contents {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 3rem;
+  }
+  .pelatih-ekstrakulikuler .content {
+    width: 12rem;
+    display: grid;
+    gap: 1rem;
+    text-align: center;
+  }
+  .pelatih-ekstrakulikuler .contents .image {
+    width: 100%;
+    height: 12rem;
+    border-radius: 100%;
+  }

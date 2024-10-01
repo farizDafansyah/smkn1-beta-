@@ -1,0 +1,126 @@
+/* -----FOOTER----- */
+footer {
+    padding: var(--padding-container);
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 5rem;
+}
+
+.footer .kiri {
+    display: grid;
+    grid-template-rows: auto auto 1fr;
+    gap: 1rem;
+    min-width: 18rem;
+}
+
+.footer .kiri .title {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer .kiri img {
+    height: 100%;
+}
+
+.footer .kiri .maps {
+    width: 100%;
+    height: 100%;
+    min-height: 15rem;
+}
+
+.footer .kanan .contacts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-between;
+    min-width: 25rem;
+}
+
+.footer .kanan .contacts .contact {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.footer .kanan .contacts .contact .title {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.footer .kanan .contacts .contact .text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.footer .kanan .contacts .contact .text a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer .kanan .contacts .contact .text a:hover {
+    color: var(--primary2-background);
+}
+
+.copyright {
+    display: grid;
+    place-items: center;
+    height: var(--padding-container);
+}
+
+/* 
+  .footer {
+    padding: var(--padding-container);
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 10rem;
+  }
+  .footer .location .desc,
+  .footer .contact .content,
+  .footer .location {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    gap: 1rem;
+  }
+  .footer .maps {
+    width: 100%;
+    height: 100%;
+  }
+  .footer .contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  .footer .contact .text > * {
+    padding: 0.5rem 0;
+  }
+  .footer a {
+    width: fit-content;
+  }
+  .footer .location .title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .footer .text {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer .location .title img {
+    width: 3rem;
+  } */
+   
+@media only screen and (max-width: 1225px) {
+    .footer {
+        grid-template-columns: auto auto;
+    }
+}
